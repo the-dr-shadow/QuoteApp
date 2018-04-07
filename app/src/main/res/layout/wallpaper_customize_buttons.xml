@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingLeft="@dimen/setting_button_side_padding"
+    android:paddingRight="@dimen/setting_button_side_padding">
+
+    <!--ImageButtonLayout-->
+    <LinearLayout
+        android:id="@+id/image_select_view"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="@drawable/setting_button_view_bg"
+        android:orientation="vertical"
+        android:clickable="true">
+
+        <ImageButton
+            android:id="@+id/image_select_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/setting_button_top_bottom_padding"
+            android:background="@drawable/setting_imageview_bg"
+            android:backgroundTint="@color/colorAccent"
+            android:backgroundTintMode="src_over"
+            android:src="@drawable/image_select_bg"/>
+
+        <TextView
+            android:id="@+id/imagetextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:layout_marginBottom="@dimen/setting_button_top_bottom_padding"
+            android:gravity="center"
+            android:paddingTop="@dimen/setting_button_top_bottom_padding"
+            android:text="@string/image_button_text"
+            android:textStyle="bold"/>
+    </LinearLayout>
+
+    <!--FONTButtonLayout-->
+    <LinearLayout
+        android:id="@+id/font_select_view"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="@drawable/setting_button_view_bg"
+        android:orientation="vertical"
+        android:clickable="true">
+
+        <ImageButton
+            android:id="@+id/font_select_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/setting_button_top_bottom_padding"
+            android:background="@drawable/setting_imageview_bg"
+            android:backgroundTint="@color/colorAccent"
+            android:src="@drawable/font_select_bg"/>
+
+        <TextView
+            android:id="@+id/fonttextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/setting_button_top_bottom_padding"
+            android:gravity="center"
+            android:paddingTop="@dimen/setting_button_top_bottom_padding"
+            android:text="@string/fonts_button_text"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+
+    <!--FONTCOLORButtonLayout-->
+    <LinearLayout
+        android:id="@+id/font_color_select_view"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="@drawable/setting_button_view_bg"
+        android:orientation="vertical"
+        android:clickable="true">
+
+        <ImageButton
+            android:id="@+id/font_color_select_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/setting_button_top_bottom_padding"
+            android:background="@drawable/setting_imageview_bg"
+            android:backgroundTint="@color/colorAccent"
+            android:src="@drawable/font_color_select_bg"/>
+
+        <TextView
+            android:id="@+id/fontcolortextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/setting_button_top_bottom_padding"
+            android:gravity="center"
+            android:paddingTop="@dimen/setting_button_top_bottom_padding"
+            android:text="@string/fonts_color_button_text"
+            android:textStyle="bold"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/quote_list_top_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:orientation="horizontal">
+
+        <!--<ImageButton
+            android:id="@+id/quote_list_home_key"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:background="@drawable/setting_button_view_bg"
+            android:src="@drawable/back_key"
+            android:tint="@android:color/darker_gray"/>-->
+
+        <SearchView
+            android:id="@+id/search_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/setting_button_view_bg"
+            android:iconifiedByDefault="false"
+            android:queryHint="@string/search_view_hint"/>
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/quote_list_top_view"
+        android:layout_margin="8dp"
+        android:divider="@android:color/white"
+        android:dividerHeight="8.0sp"/>
+
+</RelativeLayout>

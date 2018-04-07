@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AQED</string>
+    <string name="permission_internet_rationale">This permission is required in order to download the new quotes uploaded by us</string>
+    <string name ="ok">OK</string>
+    <string name="set_as_wallpaper">Set as wallpaper</string>
+    <string name="change_noti_settings">Notification Settings</string>
+    <string name="browse_all_quotes">Browse All Quotes</string>
+    <string name="search_view_hint">Search Quotes by Author/Quote</string>
+    <string name="image_button_text">IMAGE</string>
+    <string name="fonts_button_text">FONTS</string>
+    <string name="fonts_color_button_text">FONT COLOR</string>
+    <string name="set_as_wallpaer">SET</string>
+    <string name="cancel">@android:string/cancel</string>
+    <string name="current_quote">Current</string>
+    <string name="all_quote">All Quotes</string>
+
+
+    <!--Options Menu-->
+    <string name="exit_option_menu">EXIT</string>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/wallpaper_upper_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/footer_buttons"
+        android:orientation="vertical">
+
+        <paperless.aqed.Wallpaper.PreviewCanvas
+            android:id="@+id/preview_canvas"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/wallpaper_preview_height"
+            android:layout_margin="5dp"
+            android:textColor="#FFFFFF"
+            android:background="@drawable/quotes_list_item_bg"/>
+
+        <FrameLayout
+            android:id="@+id/wallpaper_bottom_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center">
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/footer_buttons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/button_side_margin"
+        android:layout_marginLeft="@dimen/setting_button_side_padding"
+        android:layout_marginRight="@dimen/setting_button_side_padding"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/set_as_wallpaper_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/button_side_margin"
+            android:layout_weight="1"
+            android:background="@drawable/quotes_list_item_bg"
+            android:text="@string/set_as_wallpaper"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/cancel_wallpaper_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/button_side_margin"
+            android:layout_weight="1"
+            android:background="@drawable/quotes_list_item_bg"
+            android:text="@string/cancel"
+            android:textStyle="bold"/>
+    </LinearLayout>
+</RelativeLayout>

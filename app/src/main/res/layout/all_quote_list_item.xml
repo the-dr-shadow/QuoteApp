@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@drawable/quotes_list_item_bg"
+              android:orientation="vertical"
+              android:padding="@dimen/list_item_padding">
+
+    <TextView
+        android:id="@+id/quoteText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="@dimen/list_item_quote_text_size"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/authorName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:background="@android:color/transparent"
+        android:textAllCaps="false"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="@dimen/list_item_author_text_size"/>
+
+</LinearLayout>

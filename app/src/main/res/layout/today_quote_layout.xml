@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:padding="@dimen/today_fragment_padding">
+
+    <paperless.aqed.Util.AutoResizeTextView
+        android:id="@+id/quoteText"
+        android:layout_width="fill_parent"
+        android:layout_height="250dp"
+        android:paddingBottom="2dip"
+        android:paddingTop="6dip"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="150sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/authorName"
+        style="@style/PrimaryFlatButton"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_gravity="end"
+        android:background="@android:color/transparent"
+        android:paddingBottom="2dip"
+        android:textColor="@android:color/holo_red_dark"/>
+
+</LinearLayout>

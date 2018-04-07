@@ -1,0 +1,639 @@
+{
+  "Version":[
+    {
+      "VersionCode":1
+    }
+  ],
+  "Quotes": [
+    {
+      "Quote": "Let us sacrifice our today so that our children can have a better tomorrow.",
+      "Author": "A. P. J. Abdul Kalam",
+      "Wiki": "https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam"
+    },
+    {
+      "Quote": "If you want to test a man's character, give him power",
+      "Author": "Abraham Lincoln",
+      "Wiki": "https://en.wikipedia.org/wiki/Abraham_Lincoln"
+    },
+    {
+      "Quote": "No act of kindness, no matter how small, is ever wasted.",
+      "Author": "Aesop",
+      "Wiki": "https://en.wikipedia.org/wiki/Aesop"
+    },
+    {
+      "Quote": "You can't blame gravity for falling in love.",
+      "Author": "Albert Einstein",
+      "Wiki": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "Quote": "In the middle of difficulty lies opportunity.",
+      "Author": "Albert Einstein",
+      "Wiki": "https://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "Quote": "There is only one corner of the universe you can be certain of improving and that's your own self.",
+      "Author": "Aldous Huxley",
+      "Wiki": "https://en.wikipedia.org/wiki/Aldous_Huxley"
+    },
+    {
+      "Quote": "The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.",
+      "Author": "Amelia Earhart",
+      "Wiki": "https://en.wikipedia.org/wiki/Amelia_Earhart"
+    },
+    {
+      "Quote": "When one is pretending the entire body revolts",
+      "Author": "Anais Nin",
+      "Wiki": "https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin"
+    },
+    {
+      "Quote": "Some people say you are going the wrong way, when it’s simply a way of your own.",
+      "Author": "Angelina Jolie",
+      "Wiki": "https://en.wikipedia.org/wiki/Angelina_Jolie"
+    },
+    {
+      "Quote": "It is during our darkest moments that we must focus to see the light.",
+      "Author": "Aristotle",
+      "Wiki": "https://en.wikipedia.org/wiki/Aristotle"
+    },
+    {
+      "Quote": "If you can’t outplay them, outwork them.",
+      "Author": "Ben Hogan,",
+      "Wiki": "https://en.wikipedia.org/wiki/Ben_Hogan"
+    },
+    {
+      "Quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+      "Author": "Benjamin Franklin",
+      "Wiki": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+    },
+    {
+      "Quote": "A slip of the foot you may soon recover, but a slip of the tongue you may never get over.",
+      "Author": "Benjamin Franklin",
+      "Wiki": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+    },
+    {
+      "Quote": "Never ruin an apology with an excuse.",
+      "Author": "Benjamin Franklin",
+      "Wiki": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+    },
+    {
+      "Quote": "There are no short cuts to any place worth going.",
+      "Author": "Beverly Sills",
+      "Wiki": "https://en.wikipedia.org/wiki/Beverly_Sills"
+    },
+    {
+      "Quote": "Champions keep playing until they get it right",
+      "Author": "Billie Jean King",
+      "Wiki": "https://en.wikipedia.org/wiki/Billie_Jean_King"
+    },
+    {
+      "Quote": "The secret of health for both mind and body is not to mourn for the past, not to worry about the future, or not to anticipate troubles, but to live in the present moment wisely and earnestly.",
+      "Author": "Buddha",
+      "Wiki": "https://en.wikipedia.org/wiki/Gautama_Buddha"
+    },
+    {
+      "Quote": "Don’t ever wrestle with a pig. You’ll both get dirty, but the pig will enjoy it.",
+      "Author": "Cale Yarborough",
+      "Wiki": "https://en.wikipedia.org/wiki/Cale_Yarborough"
+    },
+    {
+      "Quote": "Nothing in this world can take the place of�persistence.Talent will not; nothing is more common than unsuccessful people with talent.Genius will not; unrewarded genius is almost a proverb.Education will not; the world is full of educated derelicts.Persistence and determination alone are omnipotent.The slogan press on has solved and always will solve the problems of the human race.",
+      "Author": "Calvin Coolidge",
+      "Wiki": "https://en.wikipedia.org/wiki/Calvin_Coolidge"
+    },
+    {
+      "Quote": "Until you're ready to look foolish, you'll never have the possibility of being great.",
+      "Author": "Cher",
+      "Wiki": "https://en.wikipedia.org/wiki/Cher"
+    },
+    {
+      "Quote": "The best dreams happen when you’re awake.",
+      "Author": "Cherie Gilderbloom",
+      "Wiki": ""
+    },
+    {
+      "Quote": "When people hurt you over and over, think of them like sandpaper. They may scratch and hurt you a bit, but in the end, you end up polished and they end up useless.",
+      "Author": "Chris Colfer",
+      "Wiki": "https://en.wikipedia.org/wiki/Chris_Colfer"
+    },
+    {
+      "Quote": "Big shots are only little shots who keep shooting.",
+      "Author": "Christopher Morley",
+      "Wiki": "https://en.wikipedia.org/wiki/Christopher_Morley"
+    },
+    {
+      "Quote": "There is only one success: to be able to spend your life in your own way.",
+      "Author": "Christopher Morley",
+      "Wiki": "https://en.wikipedia.org/wiki/Christopher_Morley"
+    },
+    {
+      "Quote": "The biggest thing separating people from their artistic ambitions is not a lack of talent. It's the lack of a DEADLINE.",
+      "Author": "Christy Baty",
+      "Wiki": ""
+    },
+    {
+      "Quote": "Everything has beauty, but not everyone sees it.",
+      "Author": "Confucius",
+      "Wiki": "https://en.wikipedia.org/wiki/Confucius"
+    },
+    {
+      "Quote": "If you think in terms of a year, plant a seed; if in terms of ten years, plant trees; if in terms of 100 years, teach the people.",
+      "Author": "Confucius",
+      "Wiki": "https://en.wikipedia.org/wiki/Confucius"
+    },
+    {
+      "Quote": "I hear and I forget. I see and I remember. I do and I understand.",
+      "Author": "Confucius",
+      "Wiki": "https://en.wikipedia.org/wiki/Confucius"
+    },
+    {
+      "Quote": "I will go anywhere as long as it is forward",
+      "Author": "David Livingston",
+      "Wiki": "https://en.wikipedia.org/wiki/David_Livingstone"
+    },
+    {
+      "Quote": "Someday is not a day of the week.",
+      "Author": "Denise Brennan",
+      "Wiki": ""
+    },
+    {
+      "Quote": "Be there for others, but never leave yourself behind.",
+      "Author": "Dodinsky",
+      "Wiki": ""
+    },
+    {
+      "Quote": "Never let your memories be greater than your dreams.",
+      "Author": "Doug Ivester",
+      "Wiki": "https://en.wikipedia.org/wiki/Douglas_Ivester"
+    },
+    {
+      "Quote": "Today you are you! That is truer than true! There is no one alive who is you-er than you!",
+      "Author": "Dr. Seuss",
+      "Wiki": "https://en.wikipedia.org/wiki/Dr._Seuss"
+    },
+    {
+      "Quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+      "Author": "Edmund Burke",
+      "Wiki": "https://en.wikipedia.org/wiki/Edmund_Burke"
+    },
+    {
+      "Quote": "To avoid criticism, do nothing, say nothing, be nothing.",
+      "Author": "Elbert Hubbard",
+      "Wiki": "https://en.wikipedia.org/wiki/Elbert_Hubbard"
+    },
+    {
+      "Quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+      "Author": "Ernest Hemingway",
+      "Wiki": "https://en.wikipedia.org/wiki/Ernest_Hemingway"
+    },
+    {
+      "Quote": "When you reach the end of your rope, tie a knot in it and hang on.",
+      "Author": "Franklin D. Roosevelt",
+      "Wiki": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt"
+    },
+    {
+      "Quote": "If there is no struggle, there is no progress.",
+      "Author": "Fredrick Douglass",
+      "Wiki": "https://en.wikipedia.org/wiki/Frederick_Douglass"
+    },
+    {
+      "Quote": "The harder I work, the luckier I get.",
+      "Author": "Gary Player",
+      "Wiki": "https://en.wikipedia.org/wiki/Gary_Player"
+    },
+    {
+      "Quote": "Everything you’ve ever wanted is on the other side of fear.",
+      "Author": "George Addair",
+      "Wiki": ""
+    },
+    {
+      "Quote": "Life isn't about finding yourself. Life is about creating yourself.",
+      "Author": "George Bernard Shaw",
+      "Wiki": "https://en.wikipedia.org/wiki/George_Bernard_Shaw"
+    },
+    {
+      "Quote": "I am afraid we must make the world honest before we can honestly say to our children that honesty is the best policy.",
+      "Author": "George Bernard Shaw",
+      "Wiki": "https://en.wikipedia.org/wiki/George_Bernard_Shaw"
+    },
+    {
+      "Quote": "The other night I ate at a real nice family restaurant. Every table had an argument going.",
+      "Author": "George Carlin",
+      "Wiki": "https://en.wikipedia.org/wiki/George_Carlin"
+    },
+    {
+      "Quote": "It is never too late to be what you might have been.",
+      "Author": "George Eliot",
+      "Wiki": "https://en.wikipedia.org/wiki/George_Eliot"
+    },
+    {
+      "Quote": "It is far better to be alone, than to be in bad company.",
+      "Author": "George Washington",
+      "Wiki": "https://en.wikipedia.org/wiki/George_Washington"
+    },
+    {
+      "Quote": "Don't be afraid your life will end. Be afraid that it will never begin.",
+      "Author": "Grace Hansen",
+      "Wiki": ""
+    },
+    {
+      "Quote": "Live so that when your children think of fairness, caring, and integrity, they think of you.",
+      "Author": "H. Jackson Brown Jr",
+      "Wiki": "https://en.wikipedia.org/wiki/H._Jackson_Brown_Jr."
+    },
+    {
+      "Quote": "The only thing that I have done that is not mitigated by luck, diminished by good fortune, is that I persisted, and other people gave up.",
+      "Author": "Harrison Ford",
+      "Wiki": "https://en.wikipedia.org/wiki/Harrison_ford"
+    },
+    {
+      "Quote": "Keep your face to the sunshine and you can never see the shadow.",
+      "Author": "Helen Keller",
+      "Wiki": "https://en.wikipedia.org/wiki/Helen_Keller"
+    },
+    {
+      "Quote": "It's not what you look at that matters, it's what you see.",
+      "Author": "Henry David Thoreau",
+      "Wiki": "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+    },
+    {
+      "Quote": "You must not only aim right, but draw the bow with all your might.",
+      "Author": "Henry David Thoreau",
+      "Wiki": "https://en.wikipedia.org/wiki/Henry_David_Thoreau"
+    },
+    {
+      "Quote": "When your work speaks for itself, don’t interrupt.",
+      "Author": "Henry J. Kaiser",
+      "Wiki": "https://en.wikipedia.org/wiki/Henry_J._Kaiser"
+    },
+    {
+      "Quote": "There is nothing permanent except change.",
+      "Author": "Heraclitus",
+      "Wiki": "https://en.wikipedia.org/wiki/Heraclitus"
+    },
+    {
+      "Quote": "You cannot shake hands with a clenched fist.",
+      "Author": "Indira Gandhi",
+      "Wiki": "https://en.wikipedia.org/wiki/Indira_Gandhi"
+    },
+    {
+      "Quote": "Not all those who wander are lost.",
+      "Author": "J. R. R. Tolkien",
+      "Wiki": "https://en.wikipedia.org/wiki/J._R._R._Tolkien"
+    },
+    {
+      "Quote": "If you seek authenticity for authenticity's sake you are no longer authentic.",
+      "Author": "Jean Paul Sartre",
+      "Wiki": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre"
+    },
+    {
+      "Quote": "Don’t wish it were easier, wish you were better.",
+      "Author": "Jim Rohn",
+      "Wiki": "https://en.wikipedia.org/wiki/Jim_Rohn"
+    },
+    {
+      "Quote": "The difference between ordinary and extraordinary is that little extra",
+      "Author": "Jimmy Johnson",
+      "Wiki": "https://en.wikipedia.org/wiki/Jimmy_Johnson_(American_football_coach)"
+    },
+    {
+      "Quote": "You learn you can do your best even when it's hard, even when you're tired and maybe hurting a little bit. It feels good to show some courage.",
+      "Author": "",
+      "Wiki": "https://en.wikipedia.org/wiki/Joe_Namath"
+    },
+    {
+      "Quote": "If you aren’t going all the way, why go at all?",
+      "Author": "Joe Namath",
+      "Wiki": "https://en.wikipedia.org/wiki/Joe_Namath"
+    },
+    {
+      "Quote": "A leader is one who knows the way, goes the way, and shows the way.",
+      "Author": "John C. Maxwell",
+      "Wiki": "https://en.wikipedia.org/wiki/John_C._Maxwell"
+    },
+    {
+      "Quote": "Integrity is not a conditional word. It doesn't blow in the wind or change with the weather. It is your inner image of yourself, and if you look in there and see a man who won't cheat, then you know he never will.",
+      "Author": "John D. MacDonald",
+      "Wiki": "https://en.wikipedia.org/wiki/John_D._MacDonald"
+    },
+    {
+      "Quote": "Grief does not change you... It reveals you.",
+      "Author": "John Green",
+      "Wiki": "https://en.wikipedia.org/wiki/John_Green_(author)"
+    },
+    {
+      "Quote": "When I was 5 years old, my mother always told me that happiness was the key to life. When I went to school, they asked me what I wanted to be when I grew up. I wrote down 'happy'. They told me I didn't understand the assignment, and I told them they didn't understand life.",
+      "Author": "John Lennon",
+      "Wiki": "https://en.wikipedia.org/wiki/John_Lennon"
+    },
+    {
+      "Quote": "Make each day your masterpiece.",
+      "Author": "John Wooden",
+      "Wiki": "https://en.wikipedia.org/wiki/John_Wooden"
+    },
+    {
+      "Quote": "Remember to always be yourself. Unless you suck.",
+      "Author": "Joss Whedon",
+      "Wiki": "https://en.wikipedia.org/wiki/Joss_Whedon"
+    },
+    {
+      "Quote": "A year from now you may wish you had started today.",
+      "Author": "Karen Lamb",
+      "Wiki": ""
+    },
+    {
+      "Quote": "The simple act of paying attention can take you a long way.",
+      "Author": "Keanu Reeves",
+      "Wiki": "https://en.wikipedia.org/wiki/Keanu_Reeves"
+    },
+    {
+      "Quote": "The safest way to double your money is to fold it over once and put it in your pocket.",
+      "Author": "Kin Hubbard",
+      "Wiki": "https://en.wikipedia.org/wiki/Kin_Hubbard"
+    },
+    {
+      "Quote": "Wanting to be someone else is a waste of who you are",
+      "Author": "Kurt Cobain",
+      "Wiki": "https://en.wikipedia.org/wiki/Kurt_Cobain"
+    },
+    {
+      "Quote": "A single rose can be my garden... a single friend, my world.",
+      "Author": "Leo Buscaglia",
+      "Wiki": "https://en.wikipedia.org/wiki/Leo_Buscaglia"
+    },
+    {
+      "Quote": "Learning never exhausts the mind.",
+      "Author": "Leonardo da Vinci",
+      "Wiki": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    },
+    {
+      "Quote": "Simplicity is the ultimate sophistication.",
+      "Author": "Leonardo da Vinci",
+      "Wiki": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci"
+    },
+    {
+      "Quote": "It's a sad day when you find out that it's not accident or fortune but just yourself that kept things from you.",
+      "Author": "Lillian Hellman",
+      "Wiki": "https://en.wikipedia.org/wiki/Lillian_Hellman"
+    },
+    {
+      "Quote": "I will not let anyone walk through my mind with their dirty feet.",
+      "Author": "Mahatma Gandhi",
+      "Wiki": "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
+    },
+    {
+      "Quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+      "Author": "Marcus Aurelius",
+      "Wiki": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+    },
+    {
+      "Quote": "If you have everything under control, you’re not moving fast enough.",
+      "Author": "Mario Andretti",
+      "Wiki": "https://en.wikipedia.org/wiki/Mario_Andretti"
+    },
+    {
+      "Quote": "The secret of getting ahead is getting started.",
+      "Author": "Mark Twain",
+      "Wiki": "https://en.wikipedia.org/wiki/Mark_Twain"
+    },
+    {
+      "Quote": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+      "Author": "Mark Twain",
+      "Wiki": "https://en.wikipedia.org/wiki/Mark_Twain"
+    },
+    {
+      "Quote": "Life's most persistent and urgent question is, 'What are you doing for others?'",
+      "Author": "Martin Luther King, Jr.",
+      "Wiki": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr."
+    },
+    {
+      "Quote": "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "Author": "Maya Angelou",
+      "Wiki": "https://en.wikipedia.org/wiki/Maya_Angelou"
+    },
+    {
+      "Quote": "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
+      "Author": "Michael Jordan",
+      "Wiki": "https://en.wikipedia.org/wiki/Michael_Jordan"
+    },
+    {
+      "Quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+      "Author": "Mother Teresa",
+      "Wiki": "https://en.wikipedia.org/wiki/Mother_Teresa"
+    },
+    {
+      "Quote": "The man who has no imagination has no wings.",
+      "Author": "Muhammad Ali",
+      "Wiki": "https://en.wikipedia.org/wiki/Muhammad_Ali"
+    },
+    {
+      "Quote": "Imagination rules the world.",
+      "Author": "Napolean Bonaparte",
+      "Wiki": "https://en.wikipedia.org/wiki/Napoleon_II"
+    },
+    {
+      "Quote": "Don't wait. The time will never be just right.",
+      "Author": "Napolean Hill",
+      "Wiki": "https://en.wikipedia.org/wiki/Napoleon_Hill"
+    },
+    {
+      "Quote": "If you cannot do great things, do small things in a great way.",
+      "Author": "Napoleon Hill",
+      "Wiki": "https://en.wikipedia.org/wiki/Napoleon_Hill"
+    },
+    {
+      "Quote": "Tension is who you think you should be. Relaxation is who you are.",
+      "Author": "Chinese Proverb",
+      "Wiki": ""
+    },
+    {
+      "Quote": "Dream big and dare to fail",
+      "Author": "Norman Vaughan",
+      "Wiki": "https://en.wikipedia.org/wiki/Norman_Vaughan_(comedian)"
+    },
+    {
+      "Quote": "Luck is a matter of preparation meeting opportunity.",
+      "Author": "Oprah Winfrey",
+      "Wiki": "https://en.wikipedia.org/wiki/Oprah_Winfrey"
+    },
+    {
+      "Quote": "You can't accomplish anything worthwhile if you inhibit yourself. If life teaches you nothing else, know this for sure:When you get the chance, go for it.",
+      "Author": "Oprah Winfrey",
+      "Wiki": "https://en.wikipedia.org/wiki/Oprah_Winfrey"
+    },
+    {
+      "Quote": "Be yourself; everyone else is already taken.",
+      "Author": "Oscar Wilde",
+      "Wiki": "https://en.wikipedia.org/wiki/Oscar_Wilde"
+    },
+    {
+      "Quote": "Wise men speak because they have something to say; Fools because they have to say something.",
+      "Author": "Plato",
+      "Wiki": "https://en.wikipedia.org/wiki/Plato"
+    },
+    {
+      "Quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "Author": "Ralph Waldo Emerson",
+      "Wiki": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson"
+    },
+    {
+      "Quote": "Imitation is suicide.",
+      "Author": "Ralph Waldo Emerson",
+      "Wiki": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson"
+    },
+    {
+      "Quote": "We must be our own before we can be another�s.",
+      "Author": "Ralph Waldo Emerson",
+      "Wiki": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson"
+    },
+    {
+      "Quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "Author": "Ralph Waldo Emerson",
+      "Wiki": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson"
+    },
+    {
+      "Quote": "Change does not roll in on the wheels of inevitability, but comes through continuous struggle.And so we must straighten our backs... A man can't ride you unless your back is bent.",
+      "Author": "Rev. Martin Luther King Jr.",
+      "Wiki": "https://en.wikipedia.org/wiki/Rev._Martin_Luther_King"
+    },
+    {
+      "Quote": "The more I want to get something done, the less I call it work.",
+      "Author": "Richard Bach",
+      "Wiki": "https://en.wikipedia.org/wiki/Richard_Bach"
+    },
+    {
+      "Quote": "In three words I can sum up everything I've learned about life: it goes on.",
+      "Author": "Robert Frost",
+      "Wiki": "https://en.wikipedia.org/wiki/Robert_Frost"
+    },
+    {
+      "Quote": "The best way out is always through.",
+      "Author": "Robert Frost",
+      "Wiki": "https://en.wikipedia.org/wiki/Robert_Frost"
+    },
+    {
+      "Quote": "When we are no longer able to change a situation - we are challenged to change ourselves.",
+      "Author": "Robert H. Schuller",
+      "Wiki": "https://en.wikipedia.org/wiki/Robert_Schuller"
+    },
+    {
+      "Quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+      "Author": "Robert Louis Stevenson",
+      "Wiki": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson"
+    },
+    {
+      "Quote": "Your intellect may be confused, but your emotions will never lie to you.",
+      "Author": "Roger Ebert",
+      "Wiki": "https://en.wikipedia.org/wiki/Roger_Ebert"
+    },
+    {
+      "Quote": "Obsessed is just a word the lazy use to describe the dedicated",
+      "Author": "Russell Warren",
+      "Wiki": "https://en.wikipedia.org/wiki/Russel_Warren_Howe"
+    },
+    {
+      "Quote": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
+      "Author": "Samuel Beckett",
+      "Wiki": "https://en.wikipedia.org/wiki/Samuel_Beckett"
+    },
+    {
+      "Quote": "Change your life today. Don't gamble on the future, act now, without delay.",
+      "Author": "Simone de Beauvoir",
+      "Wiki": "https://en.wikipedia.org/wiki/Simone_de_Beauvoir"
+    },
+    {
+      "Quote": "Life is not a problem to be solved, but a reality to be experienced.",
+      "Author": "Soren Kierkegaard",
+      "Wiki": "https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard"
+    },
+    {
+      "Quote": "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work.",
+      "Author": "Stephen King",
+      "Wiki": "https://en.wikipedia.org/wiki/Stephen_King"
+    },
+    {
+      "Quote": "Don’t look for society to give you permission to be yourself.",
+      "Author": "Steve Maraboli",
+      "Wiki": ""
+    },
+    {
+      "Quote": "Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+      "Author": "Swami Vivekananda",
+      "Wiki": "https://en.wikipedia.org/wiki/Swami_Vivekananda"
+    },
+    {
+      "Quote": "I took a deep breath and listened to the old bray of my heart. I am. I am. I am.",
+      "Author": "Sylvia plath",
+      "Wiki": "https://en.wikipedia.org/wiki/Sylvia_Plath"
+    },
+    {
+      "Quote": "Every moment is a fresh beginning",
+      "Author": "T.S. Eliot",
+      "Wiki": "https://en.wikipedia.org/wiki/T._S._Eliot"
+    },
+    {
+      "Quote": "Believe you can and you're halfway there.",
+      "Author": "Theodore Roosevelt",
+      "Wiki": "https://en.wikipedia.org/wiki/Theodore_Roosevelt"
+    },
+    {
+      "Quote": "There is nothing on this earth more to be prized than true friendship.",
+      "Author": "Thomas Aquinas",
+      "Wiki": "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+    },
+    {
+      "Quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+      "Author": "Thomas Edison",
+      "Wiki": "https://en.wikipedia.org/wiki/Thomas_Edison"
+    },
+    {
+      "Quote": "Even if you fall on your face, you’re still moving forward.",
+      "Author": "Victor Kiam",
+      "Wiki": "https://en.wikipedia.org/wiki/Victor_Kiam"
+    },
+    {
+      "Quote": "It’s not whether you get knocked down, it’s whether you get up.",
+      "Author": "Vince Lombardi",
+      "Wiki": "https://en.wikipedia.org/wiki/Vince_Lombardi"
+    },
+    {
+      "Quote": "In looking for people to hire, you look for three qualities: integrity, intelligence, and energy. And if they don't have the first, the other two will kill you.",
+      "Author": "Warren Buffet",
+      "Wiki": "https://en.wikipedia.org/wiki/Warren_Buffett"
+    },
+    {
+      "Quote": "You miss 100% of the shots you don't take",
+      "Author": "Wayne Gretzky",
+      "Wiki": "https://en.wikipedia.org/wiki/Wayne_Gretzky"
+    },
+    {
+      "Quote": "Good judgment comes from experience, and a lot of that comes from bad judgment.",
+      "Author": "Will Rogers",
+      "Wiki": "https://en.wikipedia.org/wiki/Will_Rogers"
+    },
+    {
+      "Quote": "Even if you’re on the right track, you’ll get run over if you just sit there.",
+      "Author": "Will Rogers",
+      "Wiki": "https://en.wikipedia.org/wiki/Will_Rogers"
+    },
+    {
+      "Quote": "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.",
+      "Author": "William Arthur Ward",
+      "Wiki": "https://en.wikipedia.org/wiki/William_Arthur_Ward"
+    },
+    {
+      "Quote": "Flatter yourself critically.",
+      "Author": "Willis Goth Regier",
+      "Wiki": ""
+    },
+    {
+      "Quote": "Success is going from failure to failure without losing your enthusiasm",
+      "Author": "Winston Churchill",
+      "Wiki": "https://en.wikipedia.org/wiki/Winston_Churchill"
+    },
+    {
+      "Quote": "Try not. Do, or do not. There is no try",
+      "Author": "Yoda",
+      "Wiki": "https://en.wikipedia.org/wiki/Yoda"
+    }
+  ]
+}
